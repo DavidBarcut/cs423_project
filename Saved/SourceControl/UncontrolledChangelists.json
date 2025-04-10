@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/David/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/David/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/David/Desktop/repos/cs423_project/Content/VRTemplate/Maps/VRTemplateMap.umap"
 			]
 		}
 	]
